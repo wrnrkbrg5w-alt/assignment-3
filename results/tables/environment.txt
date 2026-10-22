@@ -1,0 +1,7 @@
+seed=2503
+runs=5
+warmup_runs=20
+java=17.0.20.1
+vm=OpenJDK 64-Bit Server VM
+os=Windows 11 amd64
+processors=12
